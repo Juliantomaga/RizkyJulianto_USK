@@ -1,4 +1,4 @@
-# Source code Hasil USK Rizky Julianto
+# Source code Toko Sayur Rizky Julianto
 
 Teknologi :
 - PHP
